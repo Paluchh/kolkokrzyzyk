@@ -1,0 +1,32 @@
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.csprojAssemblyReference.cache
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko_i_krzyżyk.Form1.resources
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko_i_krzyżyk.Form2.resources
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.csproj.GenerateResource.cache
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.AssemblyInfoInputs.cache
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.AssemblyInfo.cs
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.csproj.CoreCompileInputs.cache
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.exe
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.deps.json
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.runtimeconfig.json
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.runtimeconfig.dev.json
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.dll
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.pdb
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.dll
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.pdb
+E:\C#\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.genruntimeconfig.cache
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.exe
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.deps.json
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.runtimeconfig.json
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.runtimeconfig.dev.json
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.dll
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.pdb
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.csprojAssemblyReference.cache
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko_i_krzyżyk.Form1.resources
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko_i_krzyżyk.Form2.resources
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.csproj.GenerateResource.cache
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.AssemblyInfoInputs.cache
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.AssemblyInfo.cs
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.dll
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.pdb
+C:\Users\glupek xd\Desktop\kolkokrzyzyk-main\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.genruntimeconfig.cache
